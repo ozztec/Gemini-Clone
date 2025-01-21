@@ -19,7 +19,7 @@ const Main = () => {
 	return (
 		<div className="main">
 			<div className="nav">
-				<p>Gemini</p>
+				<p>Ozz</p>
 				<img src={assets.user} alt="" />
 			</div>
 			<div className="main-container">
@@ -119,8 +119,7 @@ const Main = () => {
 					</div>
 					<div className="bottom-info">
 						<p>
-							Gemini may display inaccurate info, including about people, so
-							double-check its responses. Your privacy & Gemini Apps
+							Ozz Tarafından Geliştirildi.
 						</p>
 					</div>
 				</div>
