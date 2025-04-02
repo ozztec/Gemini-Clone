@@ -25,13 +25,7 @@ const Main = () => {
 			<div className="main-container">
 				{!showResults ? (
 					<>
-						<div className="greet">
-							<p>
-								<span>Hello , Dev </span>
-							</p>
-							<p>How Can i Help You Today?</p>
-						</div>
-						<div className="cards">
+						
 							<div
 								className="card"
 								onClick={() =>
